@@ -9,4 +9,5 @@ MessageBox.Show("EBS Yararlı Coding evrenine Hoş Geldiniz :)","EBS Time");
   <li class="item float-item">Excel Hunter Excel Virüs Tespit Programı</li>
   <li class="item float-item">Bekra Siem Tools...</li>
 </ul>
-![twitter](https://user-images.githubusercontent.com/12575603/137197986-3c99b25c-9672-4388-b2a7-dafc4425bcf8.png)
+
+![twitter](https://user-images.githubusercontent.com/12575603/137198748-316f90dc-27e2-48c8-899e-46a5da82b136.png)
