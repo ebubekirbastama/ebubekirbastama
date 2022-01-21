@@ -8,7 +8,7 @@ MessageBox.Show("EBS Yararlı Coding evrenine Hoş Geldiniz :)","EBS Time");
   <li class="item float-item">Bir çok alanda Web Bot</li>
   <li class="item float-item">Excel Hunter Excel Virüs Tespit Programı</li>
   <li class="item float-item">Bekra Siem Tools...</li>
-  <li class="item float-item">.Txt  Dosyası Bölme Programı</li>
+  <li class="item float-item"><a href="https://github.com/ebubekirbastama/TexttxtDosyasi-Bolme-Programi">.Txt  Dosyası Bölme Programı</a> </li>
 </ul>
 
 ![twitter](https://user-images.githubusercontent.com/12575603/137198748-316f90dc-27e2-48c8-899e-46a5da82b136.png)
