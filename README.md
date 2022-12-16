@@ -37,7 +37,7 @@ MessageBox.Show("EBS Yararlı Coding evrenine Hoş Geldiniz :)","EBS Time");
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 <td>
-  <a href="https://www.ebubekirbastama.com">
+  <a href="https://discord.gg/yNSSzeYA">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
   <tr>
@@ -56,10 +56,15 @@ MessageBox.Show("EBS Yararlı Coding evrenine Hoş Geldiniz :)","EBS Time");
   </tr>
   <tr>
 <td>
-  <a href="https://www.linkedin.com/in/ebubekirbastama/">
+<a href="https://instagram.com/ebubekirbastamacom">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a> 
+</td>
+<td>
+ <a href="https://www.linkedin.com/in/ebubekirbastamacom/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<td>
+
   </tr>
 </table>
 
