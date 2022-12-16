@@ -64,8 +64,19 @@ MessageBox.Show("EBS Yararlı Coding evrenine Hoş Geldiniz :)","EBS Time");
  <a href="https://www.linkedin.com/in/ebubekirbastamacom/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-
+<td>
+  <a href="https://www.ebubekirbastama.com.tr"></a>
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Web%20Site%20%C4%B0%C3%A7in%20T%C4%B1klay%C4%B1n%C4%B1z&style=for-the-badge&up_color=orang&up_message=ebubekirbastama&url=https%3A%2F%2Fwww.ebubekirbastama.com">
+</td>
   </tr>
 </table>
-
+<td>
+  <a href="https://www.ebubekirbastama.com.tr">
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Web%20Site%20%C4%B0%C3%A7in%20T%C4%B1klay%C4%B1n%C4%B1z&style=for-the-badge&up_color=orang&up_message=ebubekirbastama.com.tr&url=https%3A%2F%2Fwww.ebubekirbastama.com">
+</td>
+<td>
+  <a href="https://www.pinti.uygunver.com">
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Web%20Site%20%C4%B0%C3%A7in%20T%C4%B1klay%C4%B1n%C4%B1z&style=for-the-badge&up_color=red&up_message=Uygunver&url=https%3A%2F%2Fwww.ebubekirbastama.com">
+</td>
+  <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ebubekirbastama&theme=blue-green">
