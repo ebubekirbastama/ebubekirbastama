@@ -64,12 +64,12 @@ MessageBox.Show("EBS Yararlı Coding evrenine Hoş Geldiniz :)","EBS Time");
   </tr>
   <tr>
 <td>
-<a href="https://instagram.com/ebubekirbastamacom">
+<a href="https://instagram.com/csharpegitimi">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
 </td>
 <td>
- <a href="https://www.linkedin.com/in/ebubekirbastamacom/">
+ <a href="https://www.linkedin.com/in/ebubekirbastama/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <td>
