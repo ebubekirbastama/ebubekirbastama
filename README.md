@@ -67,15 +67,10 @@ MessageBox.Show("EBS Yararlı Coding evrenine Hoş Geldiniz :)","EBS Time");
 ![Stars](https://img.shields.io/github/stars/ebubekirbastama?label=Toplam%20Yıldız&style=for-the-badge)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebubekirbastama&theme=blue-green)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebubekirbastama&theme=react-dark)
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebubekirbastama&theme=github_dark)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebubekirbastama&theme=github_dark)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebubekirbastama&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebubekirbastama&theme=github_dark)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ebubekirbastama&theme=github_dark)
-
-
-
-
 
 
 
